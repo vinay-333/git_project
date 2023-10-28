@@ -1,0 +1,1 @@
+print("This file is created inside of the git_project file ")
